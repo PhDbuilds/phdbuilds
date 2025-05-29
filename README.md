@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋 My name is Logan</h2>
 
+![Banner](./phdbuilds_banner.gif)
+
 ###
 
 <p align="center">🔭 Always looking up<br>📚 Always learning<br>🌱 Always growing<br><br>WGU Cybersecurity</p>
