@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋 My name is Logan</h2>
 
-![Banner](./phdbuilds_banner.gif)
+<p align="center">
+  <img src="./phdbuilds_banner.gif" alt="Banner GIF" />
+</p>
+
 
 ###
 
