@@ -71,11 +71,11 @@
   <a href="https://tryhackme.com/p/PhDbuilds" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
+  <img align="right" height="150" src="https://gifsec.com/wp-content/uploads/2022/10/tanjiro-gif-2.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://gifsec.com/wp-content/uploads/2022/10/tanjiro-gif-2.gif"  />
 
 ###
 
