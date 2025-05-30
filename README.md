@@ -2,7 +2,7 @@
 
 ###
 <p align="center">
-  <img src="./banner.gif" alt="Banner GIF" />
+  <img src="./phdbuilds_banner.gif" alt="Banner GIF" />
 </p>
 
 ###
