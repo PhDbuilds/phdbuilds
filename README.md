@@ -1,6 +1,11 @@
 <h2 align="left">Hi 👋 My name is Logan</h2>
 
 ###
+<p align="center">
+  <img src="./banner.gif" alt="Banner GIF" />
+</p>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phdbuilds&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
