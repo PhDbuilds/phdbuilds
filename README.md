@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<p align="center">🔭 Always looking up<br>📚 Always learning<br>🌱 Always growing<br><br>WGU Cybersecurity</p>
+<p align="left">🔭 Always looking up<br>📚 Always learning<br>🌱 Always growing<br><br>WGU Cybersecurity</p>
   <img align="right" height="150" src="https://gifsec.com/wp-content/uploads/2022/10/tanjiro-gif-2.gif"  />
 </div>
 
