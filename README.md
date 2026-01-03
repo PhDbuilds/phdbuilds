@@ -2,27 +2,20 @@
 
 ###
 <p align="center">
-  <img src="./phdbuilds_banner.gif" alt="Banner GIF" />
+  <img src="./astronuatgif.gif" alt="Banner GIF" />
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phdbuilds&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phdbuilds&theme=tokyo-night&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@Logans_adventuring" target="_blank">
+  <a href="https://www.youtube.com/@spacevoyagerclub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/phdbuilds" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="blnorris777@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/blnorris777/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
