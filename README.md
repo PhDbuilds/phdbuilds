@@ -15,11 +15,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@Logans_adventuring" target="_blank">
+  <a href="https://www.youtube.com/@astronuat" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/phdbuilds" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
   <a href="blnorris777@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -33,12 +30,12 @@
   <a href="https://medium.com/@blnorris777" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-  <a href="https://tryhackme.com/p/PhDbuilds" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=7A002B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  </a>
   <a href="https://app.hackthebox.com/users/1495586" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackthebox logo"  />
 
+  </a>
+  <a href="https://sadservers.com" target="_blank">
+    <img src="https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto" height="35" alt="sadservers level"  />
   </a>
 </div>
 
